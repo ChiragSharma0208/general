@@ -1,0 +1,78 @@
+.black{
+    background-image:linear-gradient(white,#a8e485b7) ;
+   
+    padding: 50px;
+    font-family: 'Exo 2', sans-serif;
+  
+    font-size: 65px;
+    color: rgb(101, 199, 21);
+
+    text-decoration: double underline;
+    text-align: center;
+
+}
+
+
+body{
+    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),url("https://media.istockphoto.com/vectors/watercolor-green-gradient-abstract-background-design-element-for-vector-id1170488513?k=20&m=1170488513&s=612x612&w=0&h=kiVEGLhty7Pju6IHynLtQsBB5JGdNPYWLPNpteYj3Ec=");
+    height: 1000px;
+background-size: cover;
+}
+
+
+.border{
+    border-color:rgb(87, 146, 102);
+    border-width: 15px;
+    
+    border-style:solid;
+    width: 200px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+.blue{
+    font-size: 30px;
+    color:rgb(31, 11, 214)
+}
+
+.grey{
+    font-size: 30px;
+}
+
+
+.underline{
+    text-decoration-line:underline; 
+    
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    
+}
+ 
+.tab { 
+    display:inline-block; 
+    margin-left: 78px; 
+}
+
+
+.red{
+    color:red;
+}
+
+
+.font2{
+    font-family: 'Hubballi', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+
+
+.foot{
+    font-family: 'Hubballi', cursive;
+    font-size: 25px;
+    font-weight:900;
+}
